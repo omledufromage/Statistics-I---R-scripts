@@ -1,0 +1,12 @@
+# Exercise 1 p. 160. Number of Sales People Working; Sales ($)
+Sales.People; Sales
+ 2    ; 10000
+ 3    ; 11000
+ 7    ; 13000
+ 9    ; 14000
+10    ; 18000
+10    ; 20000
+12    ; 20000
+15    ; 22000
+16    ; 22000
+20    ; 26000
